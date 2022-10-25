@@ -1,0 +1,14 @@
+{
+  "lint": {
+    "files": {
+      "include": ["./main.ts"],
+      "exclude": ["./main_test.ts"]
+    }
+  },
+  "fmt": {
+    "files": {
+      "include": ["./main.ts"],
+      "exclude": ["./main_test.ts"]
+    }
+  }
+}
